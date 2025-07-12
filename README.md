@@ -14,5 +14,5 @@ JSON for question storage (optional)
 Simple command-line UI
 🚀 How to Run
 Clone the Repository
-https://github.com/Tarakes333/Interactive-Quize-Game
+https://github.com/prasad-git-hub0106/Interactive-Quize-Game.git
 cd Python-Based Interactive Quize Game
